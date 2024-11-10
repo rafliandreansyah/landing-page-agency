@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Regular";
+  src: local("Inter-Regular");
+  src: url("./assets/fonts/Inter-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SemiBold";
+  src: local("Inter-Semibold");
+  src: url("./assets/fonts/Inter-SemiBold.ttf") format("truetype");
+}
